@@ -5,8 +5,8 @@
 We are following [this](https://docs.ansible.com/ansible-container/installation.html) guide for instalation and an example setting up a flask server.
 Some of the steps are tricky due to incompatibilities with newer version of pip, etc
 
-[Installation](installation)
-[Getting Hello World Server Started](getting-hello-world-server-started)
+- [Installation](installation)
+- [Getting Hello World Server Started](getting-hello-world-server-started)
 
 ## Installation
 
