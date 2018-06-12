@@ -23,7 +23,7 @@ Installing setuptools, pkg_resources, pip, wheel...done.
 $ workon ansible-container
 $ pip install --upgrade pip==9.0.3
 ...
-$ pip install ansible-container
+$ pip install ansible-container[docker]
 $ pip install --upgrade docker==2.7.0
 ```
 
